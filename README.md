@@ -38,13 +38,14 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,vue,nuxt,vuetify,nodejs,express,mongodb,github,gitlab,git" />
     <!-- <img src="https://skillicons.dev/icons?i=mongodb" /><br> -->
 </div>
 
 <br/>
-<hr/>
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
