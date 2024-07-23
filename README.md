@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,vuetify,quasar framework,antd,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,vuetify,tailwind,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
